@@ -1,0 +1,32 @@
+.Page {
+  padding: 80px;
+  background: linear-gradient( 20deg, #778D69 30px, #495D23 180px );
+  height: 100%;
+}
+
+.Page-content {
+}
+
+.Title {
+  font-size: 30px;
+  border: solid 2px;
+  background: #A698E4;
+  width: 200px;
+  height: 300px;
+  padding: 20px;
+}
+
+.Description {
+
+}
+
+.Bugpond {
+  background: #2245ed;
+  opacity: 0.5;
+  width: 200px;
+  height: 200px;
+}
+
+.bug {
+  position: relative;
+}
